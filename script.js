@@ -1,8 +1,8 @@
 // 🔥 CONFIGURACIÓN FIREBASE (LA TUYA)
 var firebaseConfig = {
-  apiKey: "AIzaSyAQB11Ae0wp9u502kVLd0Hnj_qvZAfiwUA",
+  apiKey: "AIzaSyBOYPRlBMmuI-gLooWiZT_eN4DEuyi9p0k",
   authDomain: "censor-de-climas-e6910.firebaseapp.com",
-  databaseURL: "https://censor-de-climas-e6910-default-rtdb.firebaseio.com",
+  databaseURL: "https://censor-de-climas-default-rtdb.firebaseio.com",
   projectId: "censor-de-climas-e6910"
 };
 
